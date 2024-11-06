@@ -1,0 +1,70 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Hire Talent",
+  "description": "We are dedicated to offering tailored recruitment solutions that drive success for both businesses and candidates. We provide a range of services designed to meet the unique needs of companies and individuals alike.",
+  "mainEntity": [
+    {
+      "@type": "Service",
+      "name": "Headhunting",
+      "description": "We specialize in identifying and engaging top talent in your industry, targeting high-caliber professionals for senior or specialized roles. Our proactive approach ensures that you gain access to exceptional candidates who may not be actively seeking new opportunities.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Recruitment"
+    },
+    {
+      "@type": "Service",
+      "name": "Permanent Placement",
+      "description": "We offer comprehensive recruitment services for permanent roles, ensuring a seamless fit between your company’s needs and the candidate’s qualifications and aspirations.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Recruitment"
+    },
+    {
+      "@type": "Service",
+      "name": "Onboarding Support",
+      "description": "Our support extends beyond recruitment. We assist in the onboarding process, making sure new hires integrate smoothly into your organization. From offer management to ensuring that your new team member transitions effortlessly into their role, we are with you every step of the way.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Onboarding"
+    },
+    {
+      "@type": "Service",
+      "name": "Consultation Services",
+      "description": "Whether you need help refining job descriptions, understanding salary benchmarks, or gaining insights into market trends, our industry experts provide tailored consultations. We work closely with your team to ensure that your recruitment strategy aligns with your business goals.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Consultation"
+    },
+    {
+      "@type": "Service",
+      "name": "CV Review",
+      "description": "Your CV is your first impression. Our experts offer detailed CV reviews to help you stand out to potential employers, ensuring that your experience and skills are presented in the best possible light.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Onboarding"
+    },
+    {
+      "@type": "Service",
+      "name": "Career Coaching",
+      "description": "We believe in helping individuals achieve their career aspirations. Our career coaching services provide personalized guidance, helping you navigate the job market, set career goals, and make informed decisions about your professional path.",
+      "provider": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "serviceType": "Onboarding"
+    }	
+  ]
+}
+</script>
