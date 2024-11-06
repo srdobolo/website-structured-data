@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SmartRecruitments",
+  "url": "https://www.smart-recruitments.com",
+  "logo": "https://www.smart-recruitments.com/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+351-927-033-879",
+    "contactType": "Customer Service",
+    "areaServed": "PT"
+  },
+  "sameAs": [
+    "https://www.facebook.com/smartrecruitments",
+    "https://www.linkedin.com/company/smartrecruitments"
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.smart-recruitments.com",
+    "name": "SmartRecruitments",
+    "description": "Connecting Talent With Opportunity For Success"
+  }
+}
+</script>
