@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Us",
+  "url": "https://www.smart-recruitments.com/about-us",
+  "description": "Explore our history, learn more about our approach, and see how we can work together. 
+Thank you for being a part of our journey. We look forward to connecting with you!",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "SmartRecruitments",
+    "url": "https://www.smart-recruitments.com",
+    "logo": "https://framerusercontent.com/images/Z4KcBNbbNCdww7assUcUlcOHMz4.png?scale-down-to=512",
+    "foundingDate": "2022",
+    "founders": [
+      {
+        "@type": "Person",
+        "name": "Rafaela"
+      }
+    ],
+    "description": "Explore our history, learn more about our approach, and see how we can work together. 
+Thank you for being a part of our journey. We look forward to connecting with you!",
+    "mission": "We connect top talent with leading companies, creating high-quality matches that drive success for both businesses and candidates. Our extensive network, industry expertise, and commitment to excellence allow us to deliver tailored recruitment solutions that drive results. ",
+    "values": [
+      "Respect",
+      "Transparency",
+      "Empathy",
+      "Proactivity",
+      "Efficiency",
+      "Excellence",
+      "Innovation",
+      "Adaptability",
+      "Creativity"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+351-927-033-879",
+      "contactType": "Customer Service",
+      "areaServed": "PT",
+      "availableLanguage": ["Portuguese", "English"]
+    },
+    "sameAs": [
+      "https://www.facebook.com/smartrecruitments",
+      "https://www.linkedin.com/company/smartrecruitments"
+    ]
+  }
+}
+</script>
