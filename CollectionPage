@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Find Jobs - SmartRecruitments",
+  "url": "https://www.smartrecruitments.com/find-jobs",
+  "description": "Explore all available job openings at SmartRecruitments. Find the perfect job that matches your skills and career goals.",
+  "mainEntity": [
+    {
+      "@type": "jobPosting",
+      "title": "Registered Nurse",
+      "description": "Seeking a registered nurse to join our healthcare client's team...",
+      "datePosted": "2024-11-06",
+      "employmentType": "Full-time",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lisbon",
+          "addressCountry": "PT"
+        }
+      }
+    },
+    {
+      "@type": "jobPosting",
+      "title": "Healthcare Assistant",
+      "description": "Join our client's healthcare team as a healthcare assistant...",
+      "datePosted": "2024-11-06",
+      "employmentType": "Part-time",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SmartRecruitments"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Porto",
+          "addressCountry": "PT"
+        }
+      }
+    }
+    // Add more job postings here as needed
+  ]
+}
