@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact Us",
+  "url": "https://www.smart-recruitments.com/contact-us",
+  "description": "Get in touch with SmartRecruitments for inquiries about our recruitment services, candidate support, and more.",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "SmartRecruitments",
+    "url": "https://www.smartrecruitments.com",
+    "logo": "https://framerusercontent.com/images/Z4KcBNbbNCdww7assUcUlcOHMz4.png?scale-down-to=512",
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+351-927-033-079",
+        "contactType": "Business Inquiries",
+        "areaServed": "PT",
+        "availableLanguage": ["Portuguese", "English"],
+        "email": "info@smartrecruitments.com"
+      }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/smartrecruitments",
+      "https://www.linkedin.com/company/smartrecruitments"
+    ]
+  }
+}
+</script>
