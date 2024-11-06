@@ -14,7 +14,7 @@ Example: Create separate Service entries for headhunting, permanent placement, o
 Example: The AboutPage schema can describe the page's purpose, and the Organization schema can list details about the company and its partners.
 
 ## Contact Us Page
-###Use the ContactPage schema along with ContactPoint to provide contact information.
+### Use the ContactPage schema along with ContactPoint to provide contact information.
 Example: Include ContactPoint to give details like phone numbers, email, and business hours. Specify different contact points if you offer multiple support channels, such as a general inquiries contact versus a candidate support contact.
 
 Incorporating these schemas will make your site more accessible to search engines and improve its visibility in search results.
