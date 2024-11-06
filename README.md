@@ -1,7 +1,7 @@
 # website-structured-data
 For your recruitment agency website, in addition to the jobPosting schema for the Job Offers page, here are some other schema types that can enhance the SEO and user experience on each page:
 
-Home Page: Use WebPage or Organization schema to represent your agency’s online presence.
+##Home Page:## Use WebPage or Organization schema to represent your agency’s online presence.
 Example: Include Organization schema to provide structured information about your agency, such as its name, logo, contact details, and a description. You can embed this information in the WebPage schema to represent the homepage itself.
 
 Services Page: Service schema would be ideal for detailing the specific recruitment and support services you offer.
